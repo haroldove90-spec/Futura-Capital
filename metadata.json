@@ -1,0 +1,6 @@
+{
+  "name": "Futura",
+  "description": "Plataforma integral de gestión, comercialización y postventa de desarrollos inmobiliarios y lotes, con roles operativos, flujo punta a punta y compatibilidad PWA.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
